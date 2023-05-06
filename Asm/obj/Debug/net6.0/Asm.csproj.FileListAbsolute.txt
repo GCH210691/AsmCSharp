@@ -1,0 +1,15 @@
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.csproj.AssemblyReference.cache
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.AssemblyInfoInputs.cache
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.AssemblyInfo.cs
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.csproj.CoreCompileInputs.cache
+E:\Advanced Programming Projects\Asm\Asm\bin\Debug\net6.0\Asm.exe
+E:\Advanced Programming Projects\Asm\Asm\bin\Debug\net6.0\Asm.deps.json
+E:\Advanced Programming Projects\Asm\Asm\bin\Debug\net6.0\Asm.runtimeconfig.json
+E:\Advanced Programming Projects\Asm\Asm\bin\Debug\net6.0\Asm.dll
+E:\Advanced Programming Projects\Asm\Asm\bin\Debug\net6.0\Asm.pdb
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.dll
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\refint\Asm.dll
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.pdb
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\Asm.genruntimeconfig.cache
+E:\Advanced Programming Projects\Asm\Asm\obj\Debug\net6.0\ref\Asm.dll
